@@ -1,0 +1,19 @@
+#box {
+  background-color: magenta;
+  width: 200px;
+  height: 100px;
+  padding: 20px;
+  border: 4px dotted black;
+  margin: 50px auto 50px auto;
+  text-align: center;
+  vertical-align: middle;
+  line-height: 100px;
+}
+#box2 {
+  background-color: orange;
+  width: 400px;
+  height: 200px;
+  padding: 0px 15px 25px 45px;
+  border: 2px solid purple;
+  margin: 75px;
+}
